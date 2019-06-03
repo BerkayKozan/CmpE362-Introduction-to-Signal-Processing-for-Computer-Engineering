@@ -1,1 +1,1 @@
-# Cmpe362-Signal-Processing
+# Cmpe362 Introduction to Signal Processing for Computer Engineering
